@@ -8,6 +8,11 @@ function appendtodisplay(input) {
     display.value = display.value + input;
 }
 
+function deleteLast() {
+    if (!display) return;
+    display.value = display.value.slice(0, -1);
+}
+
 function cleardisplay() {
     if (!display) return;
     display.value = "";
