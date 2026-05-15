@@ -15,3 +15,8 @@ Technologies Used
 HTML5 – Structure of the calculator.
 CSS3 – Styling and layout.
 JavaScript – Calculator functionality and logic.
+
+The preview of the Calculator:
+<img width="667" height="861" alt="image" src="https://github.com/user-attachments/assets/402df617-454f-4973-b1fe-ff5e7fb651c3" />
+
+
